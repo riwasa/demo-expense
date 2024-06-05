@@ -19,8 +19,8 @@
 # ***********************************************
 
 # Azure region.
-$location = "eastus2"
-$locationName = "East US 2"
+$location = "eastus"
+$locationName = "East US"
 
 # Resource name prefix.
 $resourceNamePrefix = "rim-demo-exp"
